@@ -1,1 +1,1 @@
-console.log("Привет, Вова!");
+console.log("Это ветка feature!");
