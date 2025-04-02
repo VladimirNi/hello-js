@@ -1,0 +1,1 @@
+console.log("Файл для демонстраци push/pull");
